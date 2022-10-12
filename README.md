@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=maoxiaoquan)]()
 
 <!---
 maoxiaoquan/maoxiaoquan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
